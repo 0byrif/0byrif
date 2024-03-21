@@ -8,4 +8,6 @@ Skills: JAVA / SPRING BOOT / SPRING SECURITY / SPRING DATA JPA / REST API / GRAD
 - 🔭 I’m currently working on [Task Manager](https://github.com/0byrif/java-project-99) 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0byrif)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/0byrif) 
+
+[CV](https://cv.hexlet.io/ru/resumes/3145)
