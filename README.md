@@ -6,6 +6,3 @@ Java developer with a focus on web applications. Ready for creative contribution
 Skills: JAVA / SPRING BOOT / SPRING SECURITY / SPRING DATA JPA / REST API / GRADLE / POSTMAN / JDBC / BOOTSTRAP / JUNIT / MOCKWEBSERVER / JACKSON / DOCKER / POSTGRESQL / HIBERNATE
 
 - 🔭 I’m currently working on [Task Manager](https://github.com/0byrif/java-project-99) 
-
-
-[CV](https://cv.hexlet.io/ru/resumes/3145)
